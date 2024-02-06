@@ -20,7 +20,7 @@ export default function Hero({ lang }: { lang: "fr" | "eng" }) {
         href={`mailto:${data.email}`}
       >
         <EmailRoundedIcon className="mr-2"></EmailRoundedIcon>
-        {lang === "fr" ? "Passer le bonjour" : "Say hello"}
+        {lang === "fr" ? "Passe le bonjour" : "Say hello"}
       </Link>
     </section>
   );
