@@ -14,7 +14,7 @@
     {
       "id": 2,
       "title": "Camileia",
-      "jobName": "Stagiaire en Progrommation ",
+      "jobName": "Stagiaire en Programmation ",
       "time": "Janvier 2024 - Avril 2024",
       "description": [
         "Actuellement chez Camileia, je travaille sur l'optimisation de collecte et d’import de données client. Ma tâche inclut l'évaluation et l'amélioration des méthodes de collecte de données massives, et leur import sur une base de donnée spécifique.",
@@ -50,7 +50,7 @@
     {
       "id": 1,
       "title": "Medjbeur Tami Hospital",
-      "jobName": "Intern",
+      "jobName": "Intern in Web Development",
       "time": "April 2023 - June 2023",
       "description": [
         "During my internship, I designed and developed a website for the Internal Medicine department of E.H. Dr. Medjbeur Tami Hospital. My mission included improving communication between doctors and patients and facilitating online appointment scheduling.",
@@ -61,7 +61,7 @@
     {
       "id": 2,
       "title": "Camileia",
-      "jobName": "Intern",
+      "jobName": "Intern in  Development & Programing",
       "time": "January 2024 - April 2024",
       "description": [
         "Currently at Camileia, I am working on optimizing client data collection and import. My task includes evaluating and improving methods for massive data collection and their import into a specific database.",
