@@ -26,13 +26,13 @@ export default function Header({
         </Link>
       </nav>
       <div className="ml-auto flex gap-3">
-        <Link className="hover:text-primary" href="mailto:hana@gmail.com">
+        <Link className="hover:text-primary" href="mailto:berrachedh@yahoo.com">
           <EmailRoundedIcon style={{ fontSize: 20 }}></EmailRoundedIcon>
         </Link>
-        <Link className="hover:text-primary" href="tongithub" target="_blank">
+        <Link className="hover:text-primary" href="https://github.com/Hanaberrached" target="_blank">
           <GitHubIcon style={{ fontSize: 19 }}></GitHubIcon>
         </Link>
-        <Link className="hover:text-primary" href="tonlinkedin" target="_blank">
+        <Link className="hover:text-primary" href="https://www.linkedin.com/in/hanaberrached" target="_blank">
           <LinkedInIcon style={{ fontSize: 21 }}></LinkedInIcon>
         </Link>
         <select

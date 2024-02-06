@@ -9,7 +9,7 @@ import Projects from "./components/projects";
 import Credits from "./components/credits";
 
 export default function Home() {
-  const [language, setLanguage] = useState<"fr" | "eng">("eng");
+  const [language, setLanguage] = useState<"fr" | "eng">("fr");
   function handleLanguage(lang: "fr" | "eng") {
     setLanguage(lang);
   }
