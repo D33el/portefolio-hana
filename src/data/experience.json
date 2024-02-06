@@ -1,0 +1,96 @@
+{
+  "fr": [
+    {
+      "id": 1,
+      "title": "Hopital Medjbeur Tami",
+      "jobName": "Stagiaire",
+      "time": "Avril 2023 - Juin 2023",
+      "description": [
+        "Durant mon stage, j'ai conçu et développé un site web pour le service de médecine interne de l'hôpital E.H. Dr. Medjbeur Tami. Ma mission incluait l'amélioration de la communication entre les médecins et les patients et la facilitation de la prise de rendez-vous en ligne.",
+        "J'ai travaillé sur toutes les étapes, de l'analyse des besoins à la réalisation technique J'ai aussi veillé à la sécurité des données, l'expérience utilisateur, et la gestion de base de données, en mettant l'accent sur l'optimisation des processus.",
+        "Utilisant des technologies comme Laravel, HTML, CSS, Bootstrap, et JavaScript"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Camileia",
+      "jobName": "Stagiaire",
+      "time": "Janvier 2024 - Avril 2024",
+      "description": [
+        "Actuellement chez Camileia, je travaille sur l'optimisation de collecte et d’import de données client. Ma tâche inclut l'évaluation et l'amélioration des méthodes de collecte de données massives, et leur import sur une base de donnée spécifique.",
+        "En parallèle, j'intègre l'outil DigDash pour une analyse de données plus efficace et intuitive, adaptant ses fonctionnalités aux besoins spécifiques de Camileia. Ce travail vise à faciliter l'analyse des données pour la gestion immobilière.",
+        "En utilisant notamment: Python, Django, Html, CSS, JavaScript."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "CESI école d'ingénieurs",
+      "jobName": "Cycle préparatoire",
+      "time": "2021 - 2023",
+      "description": [
+        "Plateforme de Recherche d'Emploi pour Étudiants : J'ai créé une plateforme de recherche d'emploi destinée aux étudiants en utilisant les technologies HTML, CSS, JavaScript et PHP, facilitant ainsi leur exploration de carrière.",
+        "Traitement de Signaux en Python : J'ai employé Python pour élaborer des scripts de traitement de signaux afin de répondre à des besoins spécifiques en matière d'analyse de données.",
+        "Configuration Cisco Packet Tracer : J'ai configuré un réseau simulé pour une entreprise fictive, conçu par mon établissement scolaire dans le but de fournir une expérience pratique.",
+        "Projets C-Arduino pour Capteurs Météorologiques : J'ai entrepris des projets C-Arduino visant à configurer divers capteurs météorologiques, améliorant ainsi les capacités de collecte de données."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "CESI école d'ingénieurs",
+      "jobName": "Cycle ingénieur",
+      "time": "2023 - 2026",
+      "description": [
+        "Intégration de Système d'Information (SI) : J'ai réussi à intégrer de manière efficace un Système d'Information au sein d'un projet, ce qui a permis une gestion optimisée des données au sein de l'organisation.",
+        "Développement d'un Logiciel de Sauvegarde : Dans un autre projet, j'ai conçu une application de sauvegarde en utilisant les langages C# et XAML pour garantir la résilience des données.",
+        "Projets à Venir cette année: Par ailleurs, je suis enthousiaste à l'idée des projets à venir dans le domaine de l'algorithmique et du Big Data, qui représentent des défis stimulants ainsi que des opportunités de croissance technique supplémentaires. "
+      ]
+    }
+  ],
+  "eng": [
+    {
+      "id": 1,
+      "title": "Medjbeur Tami Hospital",
+      "jobName": "Intern",
+      "time": "April 2023 - June 2023",
+      "description": [
+        "During my internship, I designed and developed a website for the Internal Medicine department of E.H. Dr. Medjbeur Tami Hospital. My mission included improving communication between doctors and patients and facilitating online appointment scheduling.",
+        "I worked on all stages, from needs analysis to technical implementation. I also ensured data security, user experience, and database management, with a focus on process optimization.",
+        "Using technologies such as Laravel, HTML, CSS, Bootstrap, and JavaScript."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Camileia",
+      "jobName": "Intern",
+      "time": "January 2024 - April 2024",
+      "description": [
+        "Currently at Camileia, I am working on optimizing client data collection and import. My task includes evaluating and improving methods for massive data collection and their import into a specific database.",
+        "Simultaneously, I am integrating the DigDash tool for more efficient and intuitive data analysis, adapting its functionalities to Camileia's specific needs. This work aims to facilitate data analysis for property management.",
+        "Using technologies such as Python, Django, HTML, CSS, and JavaScript."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "CESI School of Engineering",
+      "jobName": "Integrated Preparatory Cycle ",
+      "time": "2021 - 2023",
+      "description": [
+        "Student Job Search Platform: Created a job search platform for students using HTML, CSS, JavaScript, and PHP, facilitating their career exploration.",
+        "Python Signal Processing: Employed Python to craft scripts for signal processing, addressing specific data analysis requirements.",
+        "Cisco Packet Tracer: Configured a simulated network for a fictitious company with multiple services, which my school had created for practicing.",
+        "C-Arduino Meteorological Sensors: Undertook a project for configuring diverse meteorological sensors, enhancing data collection capabilities."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "CESI School of Engineering",
+      "jobName": " Engineering Cycle ",
+      "time": "2023 - 2026",
+      "description": [
+        "Integration of Information System (IS): I successfully integrated an Information System as part of one project, enabling streamlined data handling within the organization.",
+        "Backup Software Development: In another project, I developed a backup software application using C# and XAML to ensure data resilience.",
+        "Upcoming Projects this year: Additionally, there are upcoming projects in algorithmics and Big Data on the horizon, representing exciting challenges for further growth."
+      ]
+    }
+  ]
+}

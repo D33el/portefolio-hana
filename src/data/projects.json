@@ -1,0 +1,34 @@
+{
+  "fr": [
+    {
+      "title": "Application Web pour optimiser la prise de rendez-vous médicaux",
+      "description": "Une plateforme de santé qui optimise la planification de rendez-vous et l'accès aux dossiers médicaux.",
+      "github": "",
+      "host": "",
+      "languages": ["Laravel", "Html", "CSS", "JavaScript", "Bootstrap"]
+    },
+    {
+      "title": "Easy Save",
+      "description": "Easy Save simplifie les sauvegardes et la protection des données. Interface intuitive pour des sauvegardes sécurisées et personnalisables, supportant les options complètes et différentielles.",
+      "github": "",
+      "host": "",
+      "languages": ["C#", "XAML"]
+    }
+  ],
+  "eng": [
+    {
+      "title": "Web Application for streamlining Healthcare Appointments",
+      "description": "A healthcare platform streamlines appointment scheduling and medical record access.",
+      "github": "",
+      "host": "",
+      "languages": ["Laravel", "Html", "CSS", "JavaScript", "Bootstrap"]
+    },
+    {
+      "title": "Easy Save",
+      "description": "EasySave simplifies data backups and protection. Intuitive interface for secure, customizable backups, supporting both complete and differential options.",
+      "github": "",
+      "host": "",
+      "languages": ["C#", "XAML"]
+    }
+  ]
+}

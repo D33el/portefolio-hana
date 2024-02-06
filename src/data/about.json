@@ -1,0 +1,12 @@
+{
+  "fr": {
+    "technicPresentation": "Je suis étudiante en informatique inscrite au programme PGE de l'école d'ingénieurs CESI et actuellement stagiaire chez Camileia, entreprise située à la Rochelle, éditrice de logiciels spécialisés dans le facility management. ",
+    "technicSkills": ["HTML ", "CSS", "Javascript", "Laravel", "Python", "SQL"],
+    "secondaryPresentation": "En dehors de mes heures de travail, mes intérêts s'étendent à diverses formes d'art. J'apprécie également me plonger dans la lecture, et encore plus, pratiquer des activités sportives. De plus, j'ai une fascination pour le monde dynamique de la cybersécurité, un domaine en constante évolution auquel je m'implique activement, notamment à travers des plateformes telles que TryHackMe."
+  },
+  "eng": {
+    "technicPresentation": "I am a computer science student enrolled in the PGE Program at CESI engineering school located in Bordeaux, France. Currently, I am interning at Camileia, a software company based in La Rochelle, France, specializing in facility management solutions.The technologies I have worked with the most include:",
+    "technicSkills": ["HTML ", "CSS", "Javascript", "Laravel", "Python", "SQL"],
+    "secondaryPresentation": "When I'm not studying, my interests span various forms of arts. I also enjoy immersing myself in books, and even more, participating in sports. Additionally, I have a keen fascination with the dynamic world of cybersecurity, an ever-evolving field that I actively engage with, especially through platforms like TryHackMe."
+  }
+}
