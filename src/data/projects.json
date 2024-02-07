@@ -8,7 +8,7 @@
       "languages": ["Laravel", "Html", "CSS", "JavaScript", "Bootstrap"]
     },
     {
-      "title": "Easy Save",
+      "title": "Easy Save : logiciel de sauvegarde ",
       "description": "Easy Save simplifie les sauvegardes et la protection des données. Interface intuitive pour des sauvegardes sécurisées et personnalisables, supportant les options complètes et différentielles.",
       "github": "",
       "host": "",
@@ -24,7 +24,7 @@
       "languages": ["Laravel", "Html", "CSS", "JavaScript", "Bootstrap"]
     },
     {
-      "title": "Easy Save",
+      "title": "Easy Save : the back up software",
       "description": "EasySave simplifies data backups and protection. Intuitive interface for secure, customizable backups, supporting both complete and differential options.",
       "github": "",
       "host": "",
