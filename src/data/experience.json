@@ -1,7 +1,7 @@
 {
   "fr": [
     {
-      "id": 1,
+      "id": 2,
       "title": "Hopital Medjbeur Tami",
       "jobName": "Stagiaire en Développement Web  ",
       "time": "Avril 2023 - Juin 2023",
@@ -12,18 +12,18 @@
       ]
     },
     {
-      "id": 2,
+      "id": 1,
       "title": "Camileia",
       "jobName": "Stagiaire en Programmation ",
       "time": "Janvier 2024 - Avril 2024",
       "description": [
         "Actuellement chez Camileia, je travaille sur l'optimisation de collecte et d’import de données client. Ma tâche inclut l'évaluation et l'amélioration des méthodes de collecte de données massives, et leur import sur une base de donnée spécifique.",
         "En parallèle, j'intègre l'outil DigDash pour une analyse de données plus efficace et intuitive, adaptant ses fonctionnalités aux besoins spécifiques de Camileia. Ce travail vise à faciliter l'analyse des données pour la gestion immobilière.",
-        "En utilisant notamment: Python, Django, Html, CSS, JavaScript."
+        "En utilisant notamment: Python, Django, Html, CSS, JavaScript et SQL."
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "CESI école d'ingénieurs",
       "jobName": "Cycle préparatoire",
       "time": "2021 - 2023",
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "title": "CESI école d'ingénieurs",
       "jobName": "Cycle ingénieur",
       "time": "2023 - 2026",
@@ -48,7 +48,7 @@
   ],
   "eng": [
     {
-      "id": 1,
+      "id": 2,
       "title": "Medjbeur Tami Hospital",
       "jobName": "Intern in Web Development",
       "time": "April 2023 - June 2023",
@@ -59,18 +59,18 @@
       ]
     },
     {
-      "id": 2,
+      "id": 1,
       "title": "Camileia",
       "jobName": "Intern in  Development & Programing",
       "time": "January 2024 - April 2024",
       "description": [
         "Currently at Camileia, I am working on optimizing client data collection and import. My task includes evaluating and improving methods for massive data collection and their import into a specific database.",
         "Simultaneously, I am integrating the DigDash tool for more efficient and intuitive data analysis, adapting its functionalities to Camileia's specific needs. This work aims to facilitate data analysis for property management.",
-        "Using technologies such as Python, Django, HTML, CSS, and JavaScript."
+        "Using technologies such as Python, Django, HTML, CSS, JavaScript & SQL."
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "CESI School of Engineering",
       "jobName": "Integrated Preparatory Cycle ",
       "time": "2021 - 2023",
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "title": "CESI School of Engineering",
       "jobName": " Engineering Cycle ",
       "time": "2023 - 2026",
