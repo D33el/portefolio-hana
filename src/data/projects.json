@@ -1,8 +1,8 @@
 {
   "fr": [
     {
-      "title": "Application Web pour optimiser la prise de rendez-vous médicaux",
-      "description": "Une plateforme de santé qui optimise la planification de rendez-vous et l'accès aux dossiers médicaux.",
+      "title": "Application Web :  prise de rendez-vous médicaux",
+      "description": "Une plateforme de santé qui optimise la planification de rendez-vous et l'accès aux dossiers médicaux pour les patients et les médecins.",
       "github": "",
       "host": "",
       "languages": ["Laravel", "Html", "CSS", "JavaScript", "Bootstrap"]
@@ -19,14 +19,14 @@
     {
       "title": "Web Application for streamlining Healthcare Appointments",
       "description": "A healthcare platform streamlines appointment scheduling and medical record access.",
-      "github": "",
+      "github": "https://github.com/Hanaberrached/STAGE-E.H",
       "host": "",
       "languages": ["Laravel", "Html", "CSS", "JavaScript", "Bootstrap"]
     },
     {
       "title": "Easy Save : the back up software",
       "description": "EasySave simplifies data backups and protection. Intuitive interface for secure, customizable backups, supporting both complete and differential options.",
-      "github": "",
+      "github": "https://github.com/Hanaberrached/EasySave",
       "host": "",
       "languages": ["C#", "XAML"]
     }
