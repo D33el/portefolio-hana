@@ -3,8 +3,8 @@
     {
       "title": "Application Web :  prise de rendez-vous médicaux",
       "description": "Une plateforme de santé qui optimise la planification de rendez-vous et l'accès aux dossiers médicaux pour les patients et les médecins.",
-      "github": "",
-      "host": "",
+      "github": "https://github.com/Hanaberrached/STAGE-E.H",
+      "host": "https://github.com/Hanaberrached/EasySave",
       "languages": ["Laravel", "Html", "CSS", "JavaScript", "Bootstrap"]
     },
     {
