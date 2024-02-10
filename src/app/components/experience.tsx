@@ -14,13 +14,13 @@ export default function Experience({ lang }: { lang: "fr" | "eng" }) {
 
   return (
     <Section id="experience" title="Mon expérience">
-      <div className="grid grid-cols-[250px,1fr] gap-10">
+      <div className="grid grid-cols-1 gap-10 lg:grid-cols-[max-content,1fr]">
         <nav className="">
           {data.map((d) => {
             return (
               <div
                 key={d.id}
-                className={`relative cursor-pointer px-5 py-2.5 text-xl font-thin ${selectedTab === d.id ? "after:absolute after:right-0 after:top-0 after:h-full after:border after:border-primary after:content-['']" : ""}`}
+                className={`relative cursor-pointer px-5 py-2.5 text-2xl font-thin ${selectedTab === d.id ? "rounded-lg bg-secondary text-primary after:absolute after:right-0 after:top-0 after:h-full after:border after:border-primary after:content-['']" : ""}`}
                 onClick={() => handleTabChange(d.id)}
               >
                 {d.title}
