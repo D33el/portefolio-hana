@@ -1,8 +1,11 @@
 import type { Metadata } from "next";
-import { NTR } from "next/font/google";
+import { Nunito } from "next/font/google";
 import "./globals.css";
 
-const ntr = NTR({ weight: "400", subsets: ["latin"] });
+const mainFont = Nunito({
+  weight: ["300", "400", "500"],
+  subsets: ["latin"],
+});
 
 export const metadata: Metadata = {
   title: "Hana Berrached",
@@ -16,7 +19,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="scroll-smooth">
-      <body className={`${ntr.className} text-text`}>{children}</body>
+      <body className={`${mainFont.className} text-text`}>{children}</body>
     </html>
   );
 }
