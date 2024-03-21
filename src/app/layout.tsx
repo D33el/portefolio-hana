@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Nunito } from "next/font/google";
 import "./globals.css";
+import { Analytics } from "@vercel/analytics/next";
 
 const mainFont = Nunito({
   weight: ["300", "400", "500"],
@@ -20,6 +21,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <body className={`${mainFont.className} text-text`}>{children}</body>
+      <Analytics />
     </html>
   );
 }
